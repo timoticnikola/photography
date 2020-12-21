@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Nikola Foto | Fotografski tim</title>
+        <link>https://timoticnikola.github.io/</link>
+        <description>Novosti</description>
+        <language>sr</language>
+        <copyright>Copyright 2020 Nikola Foto</copyright>
+        <category>Novosti</category>
+        <image>
+            <url>https://timoticnikola.github.io/img/logo-rss.png</url>
+            <title>Nikola Foto | Fotografski tim</title>
+            <link>https://timoticnikola.github.io/</link>
+        </image>
+        <item>
+            <title>Zlatibor</title>
+            <link>https://timoticnikola.github.io/pages/news.html</link>
+            <description>Zlatibor, planina nesvakidašnje lepote i živopisne prirode nalazi se u zapadnom delu Srbije na prosečnoj visini od 1000m, 230km od Beograda.</description>
+            <pubDate>Sat, 12 Dec 2020 17:51:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Obrenovački Zabran</title>
+            <link>https://timoticnikola.github.io/pages/news.html</link>
+            <description>Na 20 kilometara od Beograda, 40 hektara prelepe prirode koju je država pre sedam godina stavila pod zaštitu. Zabran je omiljeno izletište mnogih Obrenovčana i Beograđana.</description>
+            <pubDate>Fri, 11 Dec 2020 17:30:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Kafa na dobrom glasu</title>
+            <link>https://timoticnikola.github.io/pages/news.html</link>
+            <description>Uz lep pogled, mir, tišinu i kafu, opustite se u Tobacco.</description>
+            <pubDate>Thu, 10 Dec 2020 13:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Kartland staza</title>
+            <link>https://timoticnikola.github.io/pages/news.html</link>
+            <description>Kartland staza je mesto visokog adrenalina, zabave i dobrog raspoloženja.</description>
+            <pubDate>Wed, 9 Dec 2020 15:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Uplovite u čarobni svet knjiga</title>
+            <link>https://timoticnikola.github.io/pages/news.html</link>
+            <description>Biblioteka sadrži neverovatnih 150,000,000 izdanja, a istu u proseku posećuje 1,750,000 ljudi godišnje, dok zaposlenih ima 3,624.</description>
+            <pubDate>Tue, 8 Dec 2020 11:30:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Kolači mog detinjstva</title>
+            <link>https://timoticnikola.github.io/pages/news.html</link>
+            <description>Nezaboravni ukus koji me vraća u detinjstvo.</description>
+            <pubDate>Mon, 7 Dec 2020 20:00:00 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
